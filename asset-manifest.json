@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/517_mernstack/static/css/main.88e1a837.css",
-    "main.js": "/517_mernstack/static/js/main.2ff21e3e.js",
+    "main.css": "/517_mernstack/static/css/main.8fbad2d3.css",
+    "main.js": "/517_mernstack/static/js/main.9e3fc8ad.js",
     "static/js/592.b0daf808.chunk.js": "/517_mernstack/static/js/592.b0daf808.chunk.js",
+    "static/media/img.png": "/517_mernstack/static/media/img.3fb227debfe87b15b884.png",
+    "static/media/im1.jpg": "/517_mernstack/static/media/im1.741210ad6f482c1d1d6a.jpg",
+    "static/media/Expenso.jpg": "/517_mernstack/static/media/Expenso.13a2ecfb815b22c586b4.jpg",
     "index.html": "/517_mernstack/index.html",
-    "main.88e1a837.css.map": "/517_mernstack/static/css/main.88e1a837.css.map",
-    "main.2ff21e3e.js.map": "/517_mernstack/static/js/main.2ff21e3e.js.map",
+    "main.8fbad2d3.css.map": "/517_mernstack/static/css/main.8fbad2d3.css.map",
+    "main.9e3fc8ad.js.map": "/517_mernstack/static/js/main.9e3fc8ad.js.map",
     "592.b0daf808.chunk.js.map": "/517_mernstack/static/js/592.b0daf808.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88e1a837.css",
-    "static/js/main.2ff21e3e.js"
+    "static/css/main.8fbad2d3.css",
+    "static/js/main.9e3fc8ad.js"
   ]
 }
